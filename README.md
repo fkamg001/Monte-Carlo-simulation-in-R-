@@ -1,0 +1,2 @@
+# Monte-Carlo-simulation-in-R-
+The purpose of this study is to conduct Monte Carlo simulation which involves random sampling from probability distribution to examine the size and power of the statistical tests under different situations. The dataset used in this investigation is derived from the ‘dslabs’ package in R Programming Language (Irizarry 2018). It contains the Polls results from US 2016 presidential elections which are collected from ‘HuffPost’ Pollster, ‘RealClearPolitics’ and various polling firms.
